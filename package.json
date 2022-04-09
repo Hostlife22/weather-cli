@@ -1,0 +1,26 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Sen Serafim",
+  "license": "ISC",
+  "homepage": "github.com/sen-serafim/weather-cli",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sen-serafim/weather-cli.git"
+  },
+  "bugs": {
+    "url": "git://github.com/sen-serafim/weather-cli.git",
+    "email": "sima.serafim2@mail.ru"
+  }
+}
